@@ -15,4 +15,4 @@ elif(a<70 and a>=60):
     print("Improve Hardwork!!! you got Grade D")
 else:
     print("Study Hard!!! you got Grade F")
-print("-----------------------------------------
+print("------------------------------------")
